@@ -99,5 +99,3 @@ regime_trend_vol_project/
 Install all dependencies with:
 pip install -r requirements.txt
 
-yaml
-Copy code
