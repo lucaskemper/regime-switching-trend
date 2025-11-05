@@ -60,7 +60,7 @@ The focus is on understanding how regime awareness and risk scaling improve Shar
 ---
 
 ## File Structure
-
+```
 regime_trend_vol_project/
 │
 ├── src/
@@ -84,7 +84,7 @@ regime_trend_vol_project/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Dependencies
