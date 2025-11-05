@@ -61,7 +61,7 @@ The focus is on understanding how regime awareness and risk scaling improve Shar
 
 ## File Structure
 ```
-regime_trend_vol_project/
+regime-switching-trend/
 │
 ├── src/
 │ ├── data.py
